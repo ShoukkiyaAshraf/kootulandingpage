@@ -1,5 +1,3 @@
-# kootulandingpage
-An attractive landing page for the project kootu.
 <div
  class="canva-embed"
  data-design-id="DADuR68Oh64"
